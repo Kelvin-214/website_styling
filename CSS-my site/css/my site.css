@@ -1,0 +1,91 @@
+body{
+	color: 40514E;
+	margin: 0;
+	text-align: center;
+font-family: 'Merriweather', serif;
+}
+h1{
+	font-size: 40px;
+	color:  #66BFBF;
+margin:50px ;
+ font-family:'Merriweather';
+}
+h2{
+	color:#66BFBF ;
+	font-size: 2.5rem;
+	font-weight: normal;
+	font-family: 'montserrat', sans-serif;
+}
+h3{
+	color: #11999E;
+	font-family: 'montserrat', sans-serif;
+}
+.top-container{
+	background-color:#E4F9F5;
+	position: relative;
+	padding-top: 100px;
+}
+.pro{
+	text-decoration: underline;
+
+
+}
+a{
+	margin: 10px 20px;
+	text-decoration: none;
+}
+a:hover{
+	color: #EAF6F6;
+}
+.middle-container{
+margin: 100px 0;	
+}
+.buttom-container{
+	padding:40px 0 20px;
+	background-color: #66BFBF;
+}
+
+.prog{
+	color:#66BFBF  ;
+	font-size: 30px;
+	font-weight: normal;
+
+}
+hr{
+	border: dotted 6px;
+	border-bottom: none;
+width: 4%;
+	color: #EAF6F6;
+	margin: 100px auto;
+}
+.profile{
+	line-height: 2;
+}
+.skill-row{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+#computer{
+	float: left;
+	margin-right: 30px;
+}
+#chill{
+	float: right;
+margin-left: 30px;
+}
+
+.top-cloud{
+	position: absolute;
+	right:300px;
+	top: 50px;
+}
+.buttom-cloud{
+position:absolute ;
+left: 300px;
+bottom :300px;
+}
+.prof{
+	border-radius: 100%;
+}
